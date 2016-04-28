@@ -19,5 +19,5 @@ Sample website with plenty of files for demos
 
 Fork THIS again!!!
 
-### Copyright
+### Copyright All Rights Reserved
 Git Training
