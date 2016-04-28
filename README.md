@@ -13,3 +13,5 @@ Deployment description Here
 
 Sample website with plenty of files for demos
 ## How to contribute
+### Copyright
+Git Training
