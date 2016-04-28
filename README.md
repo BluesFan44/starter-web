@@ -3,6 +3,8 @@
 ## Description
 Added description
 
+Added more text here.
+
 ## Introduction
 This repository is for showing how Git and GitHub work. We added some text here also.
 
