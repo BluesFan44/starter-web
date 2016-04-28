@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Brent Bollmeier @BrentBollmeier bluesfan44@gmail.com
 
 # THANKS
 
