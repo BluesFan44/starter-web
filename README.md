@@ -13,5 +13,8 @@ Deployment description Here
 
 Sample website with plenty of files for demos
 ## How to contribute
+
+Fork THIS!!!
+
 ### Copyright
 Git Training
